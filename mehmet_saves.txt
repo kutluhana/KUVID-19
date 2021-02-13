@@ -1,0 +1,1 @@
+[{"username":"mehmet","score":0.0,"speed":20.0,"health":100,"remainingTime":588,"lengthL":0,"currentShootingObject":"alpha","objectX":876.6666666666666,"objectY":684.7833333333332,"isShooted":true,"objectMovementAngle":0.0,"alphaAtom":97,"betaAtom":101,"sigmaAtom":100,"gammaAtom":100,"alphaPU":20,"betaPU":20,"sigmaPU":20,"gammaPU":20,"eta":20,"lota":20,"theta":20,"zeta":20}]
